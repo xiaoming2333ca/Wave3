@@ -1,4 +1,6 @@
 from Exercise_92 import PrimeNumIndicator
+
+
 num = int(input('Please Input an Positive Int Number Greater Than One >'))
 i = PrimeNumIndicator(num)
 if i:
